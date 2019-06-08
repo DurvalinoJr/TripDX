@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TripDX</string>
+    <string name="strDistance">Distance</string>
+    <string name="strPrice">Price</string>
+    <string name="strAutonomy">Autonomy</string>
+    <string name="strResult">$ 0,00</string>
+    <string name="strCalculate">Calculate</string>
+    <string name="strValidValues">Report valid values</string>
+    <string name="strTotalKilometers">Total in kilometers</string>
+    <string name="strPriceLiter">Price per liter</string>
+    <string name="strKmLiter">kilometers per liter</string>
+    <string name="strYourExpenses">Your total expenses will be:</string>
+</resources>
